@@ -14,4 +14,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0258-add-digits/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
