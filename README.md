@@ -49,4 +49,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0410-split-array-largest-sum/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3798-largest-even-number](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/3798-largest-even-number/) | Easy |
 <!---LeetCode Topics End-->
