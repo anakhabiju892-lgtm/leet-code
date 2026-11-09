@@ -21,6 +21,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0258-add-digits/) | Easy |
+| [2578-split-with-minimum-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/2578-split-with-minimum-sum/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0410-split-array-largest-sum/) | Hard |
+| [2578-split-with-minimum-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/2578-split-with-minimum-sum/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +55,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3798-largest-even-number](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/3798-largest-even-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2578-split-with-minimum-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/2578-split-with-minimum-sum/) | Easy |
 <!---LeetCode Topics End-->
