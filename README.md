@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0410-split-array-largest-sum/) | Hard |
+| [2788-split-strings-by-separator](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/2788-split-strings-by-separator/) | Easy |
 | [3046-split-the-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/3046-split-the-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2788-split-strings-by-separator](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/2788-split-strings-by-separator/) | Easy |
 | [3798-largest-even-number](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/3798-largest-even-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
