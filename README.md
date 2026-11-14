@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0027-remove-element/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0410-split-array-largest-sum/) | Hard |
 | [2788-split-strings-by-separator](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/2788-split-strings-by-separator/) | Easy |
@@ -19,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0027-remove-element/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Math
 | Problem Name | Difficulty |
