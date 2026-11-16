@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0027-remove-element/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1408-string-matching-in-an-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/2788-split-strings-by-separator/) | Easy |
 | [3046-split-the-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/3046-split-the-array/) | Easy |
 ## Hash Table
@@ -60,6 +61,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1408-string-matching-in-an-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/2788-split-strings-by-separator/) | Easy |
 | [3798-largest-even-number](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/3798-largest-even-number/) | Easy |
 ## Sorting
@@ -82,4 +84,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1408-string-matching-in-an-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/1408-string-matching-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
