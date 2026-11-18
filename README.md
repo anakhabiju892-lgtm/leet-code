@@ -61,6 +61,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0058-length-of-last-word](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0058-length-of-last-word/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/2788-split-strings-by-separator/) | Easy |
 | [3798-largest-even-number](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/3798-largest-even-number/) | Easy |
