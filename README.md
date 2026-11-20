@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0027-remove-element/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/2788-split-strings-by-separator/) | Easy |
 | [3046-split-the-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/3046-split-the-array/) | Easy |
@@ -27,6 +28,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0258-add-digits/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/2578-split-with-minimum-sum/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
