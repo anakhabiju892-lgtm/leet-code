@@ -17,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0001-two-sum/) | Easy |
+| [0389-find-the-difference](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0389-find-the-difference/) | Easy |
 | [3046-split-the-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/3046-split-the-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -64,17 +65,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0058-length-of-last-word/) | Easy |
+| [0389-find-the-difference](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0389-find-the-difference/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [2788-split-strings-by-separator](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/2788-split-strings-by-separator/) | Easy |
 | [3798-largest-even-number](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/3798-largest-even-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0389-find-the-difference](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0389-find-the-difference/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/2578-split-with-minimum-sum/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0389-find-the-difference](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0389-find-the-difference/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
