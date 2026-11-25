@@ -32,10 +32,12 @@
 | [0258-add-digits](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0258-add-digits/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/2578-split-with-minimum-sum/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0258-add-digits/) | Easy |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/3726-remove-zeros-in-decimal-representation/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
