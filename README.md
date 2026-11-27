@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -24,6 +25,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0027-remove-element/) | Easy |
+| [0088-merge-sorted-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## Math
@@ -76,6 +78,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0088-merge-sorted-array/) | Easy |
 | [0389-find-the-difference](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0389-find-the-difference/) | Easy |
 | [2578-split-with-minimum-sum](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/2578-split-with-minimum-sum/) | Easy |
 ## Bit Manipulation
