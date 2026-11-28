@@ -99,6 +99,7 @@
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0206-reverse-linked-list/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,4 +108,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
