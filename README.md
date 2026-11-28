@@ -98,8 +98,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1408-string-matching-in-an-array](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/1408-string-matching-in-an-array/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/anakhabiju892-lgtm/leet-code/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
